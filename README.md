@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
 <a href="https://fb.com/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
 <a href="https://instagram.com/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCh2CZ5tmfg34ks2EzK7Jt5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithhafizurrahmanomar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCdnEBRv6w1uqpNlHPy3aanA?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithhafizurrahmanomar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
