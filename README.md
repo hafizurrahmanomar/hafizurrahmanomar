@@ -29,5 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizurrahmanomar&show_icons=true&locale=en" alt="hafizurrahmanomar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizurrahmanomar&" alt="hafizurrahmanomar" /></p>
-![GitHub metrics](https://metrics.lecoq.io/hafizurrahmanomar)
