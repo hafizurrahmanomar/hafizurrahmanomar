@@ -2,7 +2,7 @@
 
 <img align="center" alt="Git hub logo" src="https://media.licdn.com/dms/image/D5622AQFDF_IBsAqaIg/feedshare-shrink_800/0/1699189710837?e=1701907200&v=beta&t=QSejx9309-uYuIv2g2HsrenjBaapFDQzPUG_ZpI0aAg">
 
-<h2 align="center" style="color:Pink Peacock";>Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h2>
+<h2 align="center" style="color:blue;">Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizurrahmanomar&label=Profile%20views&color=0e75b6&style=flat" alt="hafizurrahmanomar" /> </p>
 
