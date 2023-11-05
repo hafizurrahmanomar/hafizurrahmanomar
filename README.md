@@ -2,7 +2,7 @@
 
 <img align="center" alt="Git hub logo" src="https://media.licdn.com/dms/image/D5622AQFDF_IBsAqaIg/feedshare-shrink_800/0/1699189710837?e=1701907200&v=beta&t=QSejx9309-uYuIv2g2HsrenjBaapFDQzPUG_ZpI0aAg">
 
-<h2 align="center" style="color:blue;">Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h2>
+<h1 align="center" style="color:Bright pink ;">Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizurrahmanomar&label=Profile%20views&color=0e75b6&style=flat" alt="hafizurrahmanomar" /> </p>
 <img align ="right" width ="400" alt="animation logo" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
 <a href="https://fb.com/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
 <a href="https://instagram.com/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@learnwithhafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithhafizurrahmanomar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCh2CZ5tmfg34ks2EzK7Jt5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithhafizurrahmanomar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
