@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hafizur Rahman Omar</h1>
 
-<img align="top" alt="Git hub logo" src="https://media.licdn.com/dms/image/D5622AQFDF_IBsAqaIg/feedshare-shrink_800/0/1699189710837?e=1701907200&v=beta&t=QSejx9309-uYuIv2g2HsrenjBaapFDQzPUG_ZpI0aAg">
+<img align="center" alt="Git hub logo" src="https://media.licdn.com/dms/image/D5622AQFDF_IBsAqaIg/feedshare-shrink_800/0/1699189710837?e=1701907200&v=beta&t=QSejx9309-uYuIv2g2HsrenjBaapFDQzPUG_ZpI0aAg">
 
 <h3 align="center">Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h3>
 
