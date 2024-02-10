@@ -2,7 +2,27 @@
 
 
 
-<h1 align="center" style="color:Bright pink ;">Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h1>
+
+
+<div align="center">
+
+
+![Hafizur Rahman Omar](https://avatars.githubusercontent.com/u/80614973?s=400&u=0fd97c4869d564d66141159f44c31ebc2891db63&v=4)
+
+</div>
+
+___
+
+<details>
+
+<summary>Hafizur Rahman Omar info Read more...</summary>
+
+
+<h1 align="center" style="color:Bright pink ;"> I'm a Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h1>
+
+</details>
+
+___
 
 
 <div align="center">
