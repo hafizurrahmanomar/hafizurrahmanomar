@@ -15,7 +15,7 @@ ___
 
 <details>
 
-<summary> <h1>Hafizur Rahman Omar info Read more...</h1></summary>
+<summary> <h1>Read more...</h1></summary>
 
 
 <h1 align="center" style="color:Bright pink ;"> I'm a Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h1>
