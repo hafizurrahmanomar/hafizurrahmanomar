@@ -20,19 +20,7 @@ ___
 
 I am <strong>Hafizur Rahman Omarz</strong>. I'm currently working on Web & Mobile Development. As a web developer, I use <strong>[Django](https://www.djangoproject.com/)</strong> and as a mobile app developer I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross-platform native app development and I love it.
 
-
-</details>
-
-___
-
-
-<div align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-</div>
-
-
-
-## Skills I have
+## Skills I have:
 ___
 
 - Languages: Python, JavaScript, Java, PHP, Dart
@@ -45,7 +33,16 @@ ___
 - 👨‍💻 All of my projects are available at [https://github.com/hafizurrahmanomar](https://github.com/hafizurrahmanomar)
 
 
-### Reach me at
+</details>
+
+___
+
+<div align="center">
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div>
+
+
+### Reach me at:
 <br><strong>Email : </strong> hafizurrahmanomar@gmail.com<br><br>[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hafizurrahmanomar/)&#9;[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hafizurrahmanomar)
 
 <h3 align="left">Connect with me Other Social Platform:</h3>
