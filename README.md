@@ -15,10 +15,11 @@ ___
 
 <details>
 
-<summary> <h1>Read more...</h1></summary>
+<summary> <h3>Read more...</h3></summary>
 
 
-<h1 align="center" style="color:Bright pink ;"> I'm a Full Stack Web & Android Developer|| UX/UI Desiner || Digital Marketer.</h1>
+I am <strong>Hafizur Rahman Omarz</strong>. I'm currently working on Web & Mobile Development. As a web developer, I use <strong>[Django]([https://flutter.dev/](https://www.djangoproject.com/))</strong> and as a mobile app developer I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross-platform native app development and I love it.
+
 
 </details>
 
@@ -31,21 +32,30 @@ ___
 
 
 
+## Skills I have
+___
 
-- 🌱 I’m currently learning **flutter**
-- 🌱 I’m currently learning **python and django**
-
+- Languages: Python, JavaScript, Java, PHP, Dart
+- Frameworks: Flutter, iOS, Django
+- Database: MySQL, SQL Server, SQLite, Postgresql
+- Strong knowledge of RESTful web services/API
+- Good problem-solving skill 
+- Adobe Photoshop, Illustrator, XD & Figma for UI/UX
+- Practical knowledge of GitHub and Markdown
 - 👨‍💻 All of my projects are available at [https://github.com/hafizurrahmanomar](https://github.com/hafizurrahmanomar)
 
-- 📫 How to reach me **hafizurrahmanomar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+### Reach me at
+<br><strong>Email : </strong> hafizurrahmanomar@gmail.com<br><br>[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hafizurrahmanomar/)&#9;[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hafizurrahmanomar)
+
+
+<h3 align="left">Connect with me Other Social Platform:</h3>
 <p align="left">
 <a href="https://twitter.com/hafizurrahmano_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafizurrahmano_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
-<a href="https://fb.com/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
+
 <a href="https://instagram.com/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCdnEBRv6w1uqpNlHPy3aanA?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithhafizurrahmanomar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCB6QMsfomGQhnfcbxNRdl0A?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithhafizurrahmanomar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
