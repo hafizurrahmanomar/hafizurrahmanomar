@@ -18,7 +18,7 @@ ___
 <summary> <h3>Read more...</h3></summary>
 
 
-I am <strong>Hafizur Rahman Omarz</strong>. I'm currently working on Web & Mobile Development. As a web developer, I use <strong>[Django]([https://flutter.dev/](https://www.djangoproject.com/))</strong> and as a mobile app developer I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross-platform native app development and I love it.
+I am <strong>Hafizur Rahman Omarz</strong>. I'm currently working on Web & Mobile Development. As a web developer, I use <strong>[Django](https://www.djangoproject.com/))</strong> and as a mobile app developer I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross-platform native app development and I love it.
 
 
 </details>
