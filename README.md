@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hafizur Rahman Omar</h1>
+<h1 align="center">Hi  👋, I'm Hafizur Rahman Omar</h1>
 
 
 
@@ -18,14 +18,15 @@ ___
 <summary> <h3>Read more...</h3></summary>
 
 
-I am <strong>Hafizur Rahman Omarz</strong>. I'm currently working on Web & Mobile Development. As a web developer, I use <strong>[Django](https://www.djangoproject.com/)</strong> and as a mobile app developer I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross-platform native app development and I love it.
+My name is <strong>Hafizur Rahman Omarz</strong>. I am a Full Stack Web  and App Developer. I'm currently working on Web & Mobile App Development. As a web and app developer, I use <strong>[Django](https://www.djangoproject.com/)</strong> & <strong>[Laravel](https://laravel.com/)</strong> and as a mobile app developer I use <strong>[Java](https://www.java.com/en/)</strong> & <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross-platform native app development and I love it. I am passionate about the effectiveness and speed of development and fun of clean code - so that clients get the first version of the product as soon as possible
+
 
 ## Skills I have:
 ___
 
-- Languages: Python, JavaScript, Java, PHP, Dart
-- Frameworks: Flutter, iOS, Django
-- Database: MySQL, SQL Server, SQLite, Postgresql
+- Languages: Python, JavaScript, Java, PHP, Dart.
+- Frameworks: Flutter, Tailwind, Bootstrap, Laravel, Django.
+- Database: MySQL, SQL Server, SQLite, Postgresql, MongoDB.
 - Strong knowledge of RESTful web services/API
 - Good problem-solving skill 
 - Adobe Photoshop, Illustrator, XD & Figma for UI/UX
@@ -49,7 +50,7 @@ ___
 <p align="left">
 <a href="https://twitter.com/hafizurrahmano_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafizurrahmano_" height="30" width="40" /></a>
 <a href="https://instagram.com/hafizurrahmanomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizurrahmanomar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCB6QMsfomGQhnfcbxNRdl0A?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnwithhafizurrahmanomar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCB6QMsfomGQhnfcbxNRdl0A?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wepappdeveloperbd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools Link:</h3>
