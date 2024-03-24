@@ -18,7 +18,7 @@ ___
 <summary> <h3>Read more...</h3></summary>
 
 
-My name is <strong>Hafizur Rahman Omarz</strong>. I am a Full Stack Web  and App Developer. I'm currently working on Web & Mobile App Development. As a web and app developer, I use <strong>[Django](https://www.djangoproject.com/)</strong> & <strong>[Laravel](https://laravel.com/)</strong> and as a mobile app developer I use <strong>[Java](https://www.java.com/en/)</strong> & <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross-platform native app development and I love it. I am passionate about the effectiveness and speed of development and fun of clean code - so that clients get the first version of the product as soon as possible
+My name is <strong>Hafizur Rahman Omar</strong>. I am a Full Stack Web  and App Developer. I'm currently working on Web & Mobile App Development. As a web and app developer, I use <strong>[Django](https://www.djangoproject.com/)</strong> & <strong>[Laravel](https://laravel.com/)</strong> and as a mobile app developer I use <strong>[Java](https://www.java.com/en/)</strong> & <strong>[Flutter](https://flutter.dev/)</strong> framework. I am passionate about the effectiveness and speed of development and fun of clean code - so that clients get the first version of the product as soon as possible
 
 
 ## Skills I have:
