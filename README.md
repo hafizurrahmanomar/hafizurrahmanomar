@@ -1,11 +1,11 @@
 
 ![Github Banner](assets/github-banner.jpg)
-# Hi there my <mark> superb <mark> friend <img src="assets/hello.gif" width="40px" alt="hi">
+# Hi there my superb friend <img src="assets/hello.gif" width="40px" alt="hi">
 
 I'm <strong>Hafizur Rahman Omar</strong>, a Full Stack Web and App Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube]([https://youtube.com/learnwithsumit](https://www.youtube.com/channel/UCB6QMsfomGQhnfcbxNRdl0A?sub_confirmation=1)). As a web and app developer, I use <strong>[Django](https://www.djangoproject.com/)</strong>,<strong>[Laravel](https://laravel.com/)</strong> and as CMS <strong>[WordPress](https://wordpress.org/)</strong>,<strong>[Wix](https://www.wix.com/)</strong> & <strong>[shopify](https://www.shopify.com/)</strong> for web development and as a mobile app developer I use <strong>[Java](https://www.java.com/en/)</strong> & <strong>[Flutter](https://flutter.dev/)</strong> framework. I am passionate about the effectiveness and speed of development and fun of clean code - so that clients get the first version of the product as soon as possible.
 
 ## Skills I have:
-___
+
 
 - Languages: Python, JavaScript, Java, PHP, Dart.
 - Frameworks: Flutter, Tailwind, Bootstrap, Laravel, Django.
@@ -16,7 +16,7 @@ ___
 - Practical knowledge of GitHub and Markdown
 - 👨‍💻 All of my projects are available at [https://github.com/hafizurrahmanomar](https://github.com/hafizurrahmanomar)
 
-___
+
 
 <div align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
