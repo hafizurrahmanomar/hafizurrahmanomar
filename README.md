@@ -45,9 +45,11 @@ ___
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </div>
 
+:coffee: &emsp;Reach me ate!
 
-### Reach me at:
-<br><strong>Email : </strong> hafizurrahmanomar@gmail.com<br><br>[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hafizurrahmanomar/)&#9;[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hafizurrahmanomar)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hafizurrahmanomar) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/webappdeveloperbd) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizurrahmanomar/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hafizurrahmanomar) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hafizurrahmano_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizurrahmanomar@gmail.com)
+
+
 
 <h3 align="left">Connect with me Other Social Platform:</h3>
 <p align="left">
