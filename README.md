@@ -1,13 +1,8 @@
 
-<div align="center">
-![Hafizur Rahman Omar](https://avatars.githubusercontent.com/u/80614973?s=400&u=0fd97c4869d564d66141159f44c31ebc2891db63&v=4)
-</div>
-
-___
-
+![Github Banner](assets/github-banner.jpg)
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm <strong>Hafizur Rahman Omar</strong>, a Full Stack Web and App Application Developer from <img src="assets/bdflag.png" width="18"/> Bangladesh and Content Creator on [Youtube]([https://youtube.com/learnwithsumit](https://www.youtube.com/channel/UCB6QMsfomGQhnfcbxNRdl0A?sub_confirmation=1)). As a web and app developer, I use <strong>[Django](https://www.djangoproject.com/)</strong>,<strong>[Laravel](https://laravel.com/)</strong> and as CMS <strong>[WordPress](https://wordpress.org/)</strong>,<strong>[Wix](https://www.wix.com/)</strong> & <strong>[shopify](https://www.shopify.com/)</strong> for web development and as a mobile app developer I use <strong>[Java](https://www.java.com/en/)</strong> & <strong>[Flutter](https://flutter.dev/)</strong> framework. I am passionate about the effectiveness and speed of development and fun of clean code - so that clients get the first version of the product as soon as possible.
+I'm <strong>Hafizur Rahman Omar</strong>, a Full Stack Web and App Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube]([https://youtube.com/learnwithsumit](https://www.youtube.com/channel/UCB6QMsfomGQhnfcbxNRdl0A?sub_confirmation=1)). As a web and app developer, I use <strong>[Django](https://www.djangoproject.com/)</strong>,<strong>[Laravel](https://laravel.com/)</strong> and as CMS <strong>[WordPress](https://wordpress.org/)</strong>,<strong>[Wix](https://www.wix.com/)</strong> & <strong>[shopify](https://www.shopify.com/)</strong> for web development and as a mobile app developer I use <strong>[Java](https://www.java.com/en/)</strong> & <strong>[Flutter](https://flutter.dev/)</strong> framework. I am passionate about the effectiveness and speed of development and fun of clean code - so that clients get the first version of the product as soon as possible.
 
 ## Skills I have:
 ___
