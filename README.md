@@ -17,13 +17,13 @@ I'm <strong>Hafizur Rahman Omar</strong>, a Full Stack Web and App Application D
 - 👨‍💻 All of my projects are available at [https://github.com/hafizurrahmanomar](https://github.com/hafizurrahmanomar)
 
 
-:coffee: &emsp; ### Reach me ate:
-_
+### :coffee: &emsp;Reach me ate:
+__
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hafizurrahmanomar) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCB6QMsfomGQhnfcbxNRdl0A?sub_confirmation=1) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizurrahmanomar/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hafizurrahmanomar) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hafizurrahmano_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizurrahmanomar@gmail.com)
 
 #### Languages and Tools
-_
+__
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,7 +58,7 @@ _
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-_
+__
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizurrahmanomar&show_icons=true&locale=en&layout=compact" alt="hafizurrahmanomar" /></p>
 
